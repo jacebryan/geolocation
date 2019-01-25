@@ -49,11 +49,11 @@
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1548444849339,
-            "changeTime": 1548444849339,
+            "size": 224,
+            "modifiedTime": 1548444281417,
+            "changeTime": 1548444281417,
             "isWorkspace": false,
-            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
         }
     ],
     [
@@ -313,15 +313,15 @@
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 201,
             "modifiedTime": 1548444418618,
             "changeTime": 1548444418618,
-            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f"
         }
     ],
     [
@@ -562,14 +562,14 @@
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1548443670960,
+            "changeTime": 1548443670960,
+            "contentHash": "e9a0fc9073af1fd882450129c76449abec83d306",
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1548445042966,
-            "changeTime": 1548445042966,
-            "contentHash": "c48414335e9f2631bee021fb734bc4ebf86ee431"
+            "state": "u"
         }
     ],
     [
@@ -627,14 +627,14 @@
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1548443704717,
+            "changeTime": 1548443704717,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
-            "size": 396,
-            "modifiedTime": 1548445077510,
-            "changeTime": 1548445077510,
-            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
+            "state": "u"
         }
     ],
     [
@@ -991,27 +991,27 @@
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1548444281422,
             "changeTime": 1548444281422,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1548444281421,
             "changeTime": 1548444281421,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -1021,62 +1021,62 @@
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 332,
-            "modifiedTime": 1548445151961,
-            "changeTime": 1548445151961,
-            "contentHash": "bc63970257a0a5ff3d46fbc6143c38f181e3f86e"
+            "size": 258,
+            "modifiedTime": 1548444333182,
+            "changeTime": 1548444333182,
+            "contentHash": "6b1f4e71884eb671c1388b461bcd56c482c40f05"
         }
     ],
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1548444281418,
             "changeTime": 1548444281418,
-            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9"
         }
     ],
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 46,
             "modifiedTime": 1548444380611,
             "changeTime": 1548444380611,
-            "contentHash": "724275a72e68b7812ce001b8cb0d8870eeacd1fd",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "724275a72e68b7812ce001b8cb0d8870eeacd1fd"
         }
     ],
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1548444281422,
             "changeTime": 1548444281422,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1548444281421,
             "changeTime": 1548444281421,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
@@ -1086,75 +1086,36 @@
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 795,
-            "modifiedTime": 1548445194593,
-            "changeTime": 1548445194593,
-            "contentHash": "7366953a19e8efded0af37fc508f0e21da78dbb0"
+            "size": 388,
+            "modifiedTime": 1548444356470,
+            "changeTime": 1548444356470,
+            "contentHash": "ddfee058bc97d8de3ee3ca2d503df29721da7901"
         }
     ],
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1548444281419,
             "changeTime": 1548444281419,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1548444281420,
             "changeTime": 1548444281420,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jbryan/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1548444849339,
-            "changeTime": 1548444849339,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/jbryan/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1548444935736,
-            "changeTime": 1548444935736,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "/Users/jbryan/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jbryan/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1548444849340,
-            "changeTime": 1548444849340,
-            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
